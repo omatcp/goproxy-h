@@ -1,10 +1,10 @@
 {
-  "name": "goproxy server",
-  "description": "Deploy Goproxy to Heroku.",
+  "name": "goproxy",
+  "description": "Deploy Goproxy",
   "keywords": ["Goproxy"],
   "env": {
        "PASSWORD": {
-       "description": "A password used to encrypt transfer.",
+       "description": "password",
        "value": "goproxy123456"
        }
    }
