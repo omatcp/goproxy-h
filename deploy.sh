@@ -1,11 +1,11 @@
 #!/bin/bash
 cd ~
 
-rm -rf goproxy-heroku
+rm -rf goproxy-h
 
-git clone https://github.com/VerSign010/goproxy-heroku.git
+git clone https://github.com/omatcp/gorun.git
 
-cd goproxy-heroku
+cd goproxy-h
 
 rm -rf .git
 
